@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://littlemagic8.github.io/aiguide.github.io/sitemap.xml

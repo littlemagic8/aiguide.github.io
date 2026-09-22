@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" font-family="'Segoe UI','Microsoft YaHei',system-ui,sans-serif">
+  <rect x="1" y="1" width="798" height="498" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+  <text x="400" y="52" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2328">第 2 步：选择套餐</text>
+
+  <!-- Plus 卡片（推荐） -->
+  <rect x="60" y="90" width="320" height="290" rx="14" fill="#ffffff" stroke="#10a37f" stroke-width="3"/>
+  <rect x="290" y="78" width="78" height="26" rx="13" fill="#10a37f"/>
+  <text x="329" y="96" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">推荐</text>
+  <text x="220" y="136" text-anchor="middle" font-size="20" font-weight="700" fill="#1f2328">ChatGPT Plus</text>
+  <text x="220" y="182" text-anchor="middle" font-size="28" font-weight="700" fill="#10a37f">$20 / 月</text>
+  <text x="220" y="222" text-anchor="middle" font-size="13" fill="#57606a">主力 + 高级推理模型</text>
+  <text x="220" y="248" text-anchor="middle" font-size="13" fill="#57606a">更高消息额度</text>
+  <text x="220" y="274" text-anchor="middle" font-size="13" fill="#57606a">GPTs 与高级功能</text>
+  <rect x="120" y="305" width="200" height="44" rx="22" fill="#10a37f"/>
+  <text x="220" y="333" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">立即开通</text>
+
+  <!-- Pro 卡片 -->
+  <rect x="420" y="90" width="320" height="290" rx="14" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+  <text x="580" y="136" text-anchor="middle" font-size="20" font-weight="700" fill="#1f2328">ChatGPT Pro</text>
+  <text x="580" y="182" text-anchor="middle" font-size="28" font-weight="700" fill="#8b5cf6">$200 / 月</text>
+  <text x="580" y="222" text-anchor="middle" font-size="13" fill="#57606a">全模型高额度</text>
+  <text x="580" y="248" text-anchor="middle" font-size="13" fill="#57606a">高峰期优先访问</text>
+  <text x="580" y="274" text-anchor="middle" font-size="13" fill="#57606a">o1-pro 等顶级模型</text>
+  <rect x="480" y="305" width="200" height="44" rx="22" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="580" y="333" text-anchor="middle" font-size="16" font-weight="700" fill="#1f2328">立即开通</text>
+
+  <text x="400" y="422" text-anchor="middle" font-size="13" fill="#57606a">另有 Claude / Gemini / Grok / Perplexity / X Premium 等更多套餐</text>
+  <text x="400" y="472" text-anchor="middle" font-size="12" fill="#8c959f">价格与套餐为示意，以充值中心实时显示为准</text>
+</svg>

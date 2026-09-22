@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" font-family="'Segoe UI','Microsoft YaHei',system-ui,sans-serif">
+  <rect x="1" y="1" width="798" height="498" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+
+  <!-- 浏览器地址栏 -->
+  <path d="M13 1 H800 V44 H1 V13 A12 12 0 0 1 13 1" fill="#e7ebf0"/>
+  <circle cx="26" cy="22" r="6" fill="#ff5f57"/>
+  <circle cx="46" cy="22" r="6" fill="#febc2e"/>
+  <circle cx="66" cy="22" r="6" fill="#28c840"/>
+  <rect x="100" y="10" width="600" height="24" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="116" y="27" font-size="13" fill="#57606a">littlemagic8.github.io/gptplus/index.html</text>
+
+  <!-- 页面背景 -->
+  <rect x="1" y="44" width="798" height="454" fill="#f6f8fa"/>
+
+  <!-- 顶部横幅 -->
+  <rect x="40" y="70" width="720" height="120" rx="12" fill="#10a37f"/>
+  <text x="400" y="122" text-anchor="middle" font-size="26" font-weight="700" fill="#ffffff">AI 服务代充值服务</text>
+  <text x="400" y="152" text-anchor="middle" font-size="14" fill="#e6fffa">ChatGPT · Claude · Gemini · Grok · Perplexity · X Premium</text>
+  <text x="400" y="175" text-anchor="middle" font-size="13" fill="#c8f7ea">自助下单 · 自动到账 · 无需账号密码</text>
+
+  <!-- 服务卡片 -->
+  <rect x="40" y="215" width="225" height="110" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="152" y="255" text-anchor="middle" font-size="16" font-weight="700" fill="#1f2328">ChatGPT</text>
+  <text x="152" y="282" text-anchor="middle" font-size="13" fill="#57606a">Plus / Pro / Codex</text>
+  <text x="152" y="306" text-anchor="middle" font-size="12" fill="#10a37f" font-weight="700">微信 / 支付宝</text>
+
+  <rect x="287" y="215" width="225" height="110" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="399" y="255" text-anchor="middle" font-size="16" font-weight="700" fill="#1f2328">Claude / Gemini</text>
+  <text x="399" y="282" text-anchor="middle" font-size="13" fill="#57606a">Pro 套餐</text>
+  <text x="399" y="306" text-anchor="middle" font-size="12" fill="#10a37f" font-weight="700">微信 / 支付宝</text>
+
+  <rect x="535" y="215" width="225" height="110" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="647" y="255" text-anchor="middle" font-size="16" font-weight="700" fill="#1f2328">Grok / 其他</text>
+  <text x="647" y="282" text-anchor="middle" font-size="13" fill="#57606a">Super Grok · Perplexity · X Premium</text>
+  <text x="647" y="306" text-anchor="middle" font-size="12" fill="#10a37f" font-weight="700">微信 / 支付宝</text>
+
+  <!-- 客服信息条 -->
+  <rect x="40" y="355" width="720" height="80" rx="10" fill="#ecfdf3" stroke="#10a37f"/>
+  <text x="400" y="390" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2328">微信客服：aicygg888 / aicygg789</text>
+  <text x="400" y="416" text-anchor="middle" font-size="13" fill="#57606a">下单后系统自动处理，全程无需提供账号密码</text>
+
+  <text x="400" y="472" text-anchor="middle" font-size="12" fill="#8c959f">第 1 步：进入充值中心（示意界面，以实际页面为准）</text>
+</svg>

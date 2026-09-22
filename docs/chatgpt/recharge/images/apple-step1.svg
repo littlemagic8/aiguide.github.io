@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" font-family="'Segoe UI','Microsoft YaHei',system-ui,sans-serif">
+  <rect x="1" y="1" width="798" height="498" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+  <text x="400" y="52" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2328">第 1 步：兑换礼品卡，给 Apple ID 充值</text>
+
+  <!-- 左侧准备事项 -->
+  <text x="40" y="120" font-size="14" font-weight="700" fill="#1f2328">准备工作</text>
+  <rect x="40" y="138" width="170" height="72" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="55" y="166" font-size="13" fill="#57606a">美区 Apple ID</text>
+  <text x="55" y="190" font-size="12" fill="#8c959f">已在 App Store 登录</text>
+  <rect x="40" y="226" width="170" height="72" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="55" y="254" font-size="13" fill="#57606a">美区礼品卡 ≥ $25</text>
+  <text x="55" y="278" font-size="12" fill="#8c959f">含税实扣约 $21~22</text>
+  <text x="40" y="330" font-size="12" fill="#d5760a">礼品卡区域必须与</text>
+  <text x="40" y="350" font-size="12" fill="#d5760a">Apple ID 区域一致</text>
+
+  <!-- 手机框架 -->
+  <rect x="250" y="80" width="300" height="380" rx="28" fill="#ffffff" stroke="#d0d7de" stroke-width="2.5"/>
+  <rect x="360" y="92" width="80" height="12" rx="6" fill="#e7ebf0"/>
+
+  <!-- 账号头像 -->
+  <circle cx="400" cy="150" r="22" fill="#d0d7de"/>
+  <text x="400" y="192" text-anchor="middle" font-size="12" fill="#57606a">user@example.com</text>
+
+  <!-- 菜单列表 -->
+  <rect x="275" y="216" width="250" height="34" rx="8" fill="#f6f8fa"/>
+  <text x="291" y="238" font-size="13" fill="#57606a">账户设置</text>
+  <rect x="275" y="262" width="250" height="34" rx="8" fill="#ecfdf3" stroke="#10a37f" stroke-width="2"/>
+  <text x="291" y="284" font-size="13" font-weight="700" fill="#10a37f">兑换充值卡或代码</text>
+  <rect x="275" y="308" width="250" height="34" rx="8" fill="#f6f8fa"/>
+  <text x="291" y="330" font-size="13" fill="#57606a">已购项目</text>
+  <rect x="275" y="354" width="250" height="34" rx="8" fill="#f6f8fa"/>
+  <text x="291" y="376" font-size="13" fill="#57606a">退出登录</text>
+
+  <!-- 高亮标注 -->
+  <ellipse cx="400" cy="279" rx="140" ry="28" fill="none" stroke="#d5760a" stroke-width="2.5"/>
+  <line x1="540" y1="279" x2="580" y2="279" stroke="#d5760a" stroke-width="2"/>
+  <text x="588" y="270" font-size="13" font-weight="700" fill="#d5760a">输入卡密兑换</text>
+  <text x="588" y="290" font-size="12" fill="#57606a">余额即时到账</text>
+
+  <text x="400" y="478" text-anchor="middle" font-size="12" fill="#8c959f">示意界面，以实际页面为准</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" font-family="'Segoe UI','Microsoft YaHei',system-ui,sans-serif">
+  <rect x="1" y="1" width="798" height="418" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+  <text x="400" y="48" text-anchor="middle" font-size="24" font-weight="700" fill="#1f2328">Plus 与 Pro 价格对比（美元 / 月）</text>
+
+  <!-- 基线 -->
+  <line x1="90" y1="360" x2="710" y2="360" stroke="#8c959f" stroke-width="2"/>
+
+  <!-- Plus 柱：$20 -->
+  <rect x="210" y="330" width="120" height="30" rx="6" fill="#3b82f6"/>
+  <text x="270" y="318" text-anchor="middle" font-size="22" font-weight="700" fill="#3b82f6">$20</text>
+  <text x="270" y="392" text-anchor="middle" font-size="18" fill="#1f2328">ChatGPT Plus</text>
+
+  <!-- Pro 柱：$200 -->
+  <rect x="470" y="60" width="120" height="300" rx="6" fill="#8b5cf6"/>
+  <text x="530" y="48" text-anchor="middle" font-size="22" font-weight="700" fill="#8b5cf6">$200</text>
+  <text x="530" y="392" text-anchor="middle" font-size="18" fill="#1f2328">ChatGPT Pro</text>
+
+  <!-- 倍数标注 -->
+  <line x1="338" y1="160" x2="462" y2="160" stroke="#d5760a" stroke-width="2" stroke-dasharray="6 5"/>
+  <polygon points="462,160 450,154 450,166" fill="#d5760a"/>
+  <text x="400" y="146" text-anchor="middle" font-size="18" font-weight="700" fill="#d5760a">10 倍</text>
+
+  <text x="400" y="404" text-anchor="middle" font-size="13" fill="#8c959f">示意图：官方价格不定期调整，以 ChatGPT 升级页面实时显示为准</text>
+</svg>

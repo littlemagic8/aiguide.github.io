@@ -105,13 +105,14 @@ export default withMermaid(
 
     head: [
       // head 中的资源不会自动加 base 前缀，必须手写完整路径
-      ['link', { rel: 'icon', href: `${BASE}favicon.ico` }],
+      ['link', { rel: 'icon', type: 'image/svg+xml', href: `${BASE}logo.svg` }],
       ['meta', { name: 'theme-color', content: '#3b82f6' }]
     ],
 
     themeConfig: {
       siteTitle: 'AI 工具全教程',
-      // logo: `${BASE}logo.svg`,   // 待提供 logo 后启用（request.md Q5）
+      // logo 由 VitePress 自动拼接 base，不要手写 BASE 前缀（head 里的 favicon 才需要）
+      logo: '/logo.svg',
 
       nav: [
         { text: '首页', link: '/' },

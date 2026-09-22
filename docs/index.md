@@ -10,8 +10,8 @@ hero:
       text: 开始学习 ChatGPT
       link: /chatgpt/
     - theme: alt
-      text: GitHub 仓库
-      link: https://github.com/littlemagic8/aiguide.github.io
+      text: AI 服务充值中心
+      link: https://littlemagic8.github.io/gptplus/index.html
 
 features:
   - icon: 🤖

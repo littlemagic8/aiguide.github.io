@@ -106,7 +106,14 @@ export default withMermaid(
     head: [
       // head 中的资源不会自动加 base 前缀，必须手写完整路径
       ['link', { rel: 'icon', type: 'image/svg+xml', href: `${BASE}logo.svg` }],
-      ['meta', { name: 'theme-color', content: '#3b82f6' }]
+      ['meta', { name: 'theme-color', content: '#3b82f6' }],
+      // ★ 站长平台所有权验证：在各平台生成验证码后，取消注释并替换 content，推送部署后再点"验证"
+      // Google Search Console（https://search.google.com/search-console）
+      // ['meta', { name: 'google-site-verification', content: '粘贴Google验证码' }],
+      // Bing Webmaster（https://www.bing.com/webmasters）
+      // ['meta', { name: 'msvalidate.01', content: '粘贴Bing验证码' }],
+      // 百度搜索资源平台（https://ziyuan.baidu.com）
+      // ['meta', { name: 'baidu-site-verification', content: '粘贴百度验证码' }]
     ],
 
     themeConfig: {
